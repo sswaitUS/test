@@ -3,6 +3,7 @@
 # Date: 2013-02-13
 # Version 0.9
 # License Type: GNU GENERAL PUBLIC LICENSE, Version 3
+# Must be ran on your own linux Terminal, not the AWS Console
 #
 #confirms that executables required for succesful script execution are available
 prerequisite_check()
